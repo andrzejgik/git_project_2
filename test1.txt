@@ -1,3 +1,5 @@
 print('Hello world')
 print('hello from devel')
 print('zmiana pierwsza dev')
+print('zmiana druga dev')
+
